@@ -4,7 +4,7 @@ InstaApp is a web-based social media application inspired by Instagram. Built wi
 
 ## 🔧 Tech Stack
 
-- ⚙️ **Backend**: Laravel 10+
+- ⚙️ **Backend**: Laravel 12
 - ⚡ **Frontend**: Livewire
 - 🐘 **Database**: PostgreSQL
 - 🎨 **Styling**: Tailwind CSS
